@@ -15,12 +15,6 @@ I’m eager to collaborate on projects that involve:
 - Cutting-edge embedded systems design
 - Scalable cloud-based applications
 
-## 📫 How to Reach Me
-Feel free to reach out to me via:
-- **Email**: [nzrbabii@gmail.com](mailto:nazar.babii@example.com)
-- **LinkedIn**: [Nazar Babii](https://www.linkedin.com/in/nazar-babii)
-- **Twitter**: [@superbabii](https://twitter.com/superbabii)
-
 ## 😄 Pronouns
 He/Him
 
