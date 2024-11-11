@@ -20,7 +20,7 @@ I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with over 8 years of experien
 **Machine Learning Engineer**  
 *Alta Ares, France (Remote)*  
 *May 2024 – Present*  
-- **Edge AI Optimization**: Accelerated YOLOv8 processing by **30% for drone applications** using PyTorch-to-TensorFlow Lite conversion, optimizing performance for low-latency hardware.
+- **Edge AI Optimization**: Accelerated YOLOv8 processing by **4x for drone applications** using PyTorch-to-TensorFlow Lite conversion, optimizing performance for low-latency hardware.
 - **AI-Powered Chess Coaching System**: Integrated Lc0 neural network with ChatGPT, increasing user engagement by **25%** through real-time AI-driven coaching.
 - **Key Skills**: YOLOv8, TensorFlow Lite, PyTorch, ChatGPT, Neural Networks
 
@@ -34,7 +34,7 @@ I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with over 8 years of experien
 **Full-Stack Developer**  
 *Vertor Force, Germany (Remote)*  
 *Feb 2020 – Jan 2022*  
-- **Blockchain & DeFi Solutions**: Developed secure Ethereum and Solana smart contracts, achieving **25% faster transactions** with enhanced security.
+- **Blockchain**: Developed the front end for a blockchain-based financial platform, enhancing user engagement and streamlining access to crypto-financial services.
 - **Cross-Platform Development**: Built a trading app integrating MT4/MT5, improving trading efficiency by **15%** through React Native and Electron.js.
 - **Key Skills**: Solidity, Ethereum, Solana, Cross-Platform Development
 
@@ -48,7 +48,7 @@ I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with over 8 years of experien
 - **LLM Accuracy Enhancement with RAG on GCP**: Led a project to reduce hallucination rates by **20%** in high-stakes sectors like healthcare and finance. Implemented data pipelines for domain-specific retrieval on GCP, leveraging RAG for improved reliability.
   - *Skills*: LLM, RAG, Google Cloud Platform, Data Retrieval
 
-- **Real-Time Drone Object Detection with YOLOv8 and TensorFlow Lite**: Optimized YOLOv8 for deployment on low-latency hardware, increasing processing speed by **30%**. Enabled real-time object detection on resource-constrained devices for edge-based applications.
+- **Real-Time Drone Object Detection with YOLOv8 and TensorFlow Lite**: Optimized YOLOv8 for deployment on low-latency hardware, increasing processing speed by **4x**. Enabled real-time object detection on resource-constrained devices for edge-based applications.
   - *Skills*: YOLO, TensorFlow Lite, TensorFlow, PyTorch
 
 - **Interactive Chess AI Coaching Platform**: Integrated Lc0 with ChatGPT, enabling real-time, AI-powered coaching that improved gameplay understanding by **25%**.
