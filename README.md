@@ -1,7 +1,7 @@
 # Hi there, I'm Nazar Babii! 👋
 
 ## 👀 About Me
-I'm an **AI/ML, Full-Stack, and Blockchain Developer** with over 8 years of experience across **finance, healthcare, and IoT sectors**. My work focuses on scalable, cross-functional solutions that leverage **advanced AI, blockchain, and embedded systems** to drive innovation and efficiency. My passion lies in optimizing LLM accuracy, advancing edge AI, and designing secure, decentralized systems.
+I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with over 8 years of experience across **finance, healthcare, and legal sectors**. My work focuses on scalable, cross-functional solutions that leverage **advanced AI, blockchain, and embedded systems** to drive innovation and efficiency. My passion lies in optimizing LLM accuracy, advancing edge AI, and designing secure, decentralized systems.
 
 ## 🛠️ Core Competencies
 - **Tech Stack**: AI/ML, Full-Stack Development, Blockchain, Embedded Systems, Cloud Infrastructure
